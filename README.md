@@ -22,7 +22,7 @@ This project demonstrates a scroll-triggered progress bar using GSAP (GreenSock 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/scroll-progress-bar.git
+   git clone https://github.com/tahaesii/react-scrolling.git
    cd scroll-progress-bar
    ```
 
